@@ -1,6 +1,6 @@
 # SevaHealth AI
 **AI-Native Preventive-Health & NCD Early-Warning Decision-Intelligence Platform**  
-*Proposed for the Seva First Innovation Challenge (https://sevainnovationchallenge.in/)*  
+
 *Problem Statement: Non-communicable and emerging lifestyle-oriented diseases*
 
 
